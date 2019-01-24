@@ -4,7 +4,9 @@ using System.Text;
 
 namespace TeamPowered
 {
-    class Class1
+    class Person
     {
+        public string Name { get; set; }
+        public string Address { get; set; }
     }
 }
